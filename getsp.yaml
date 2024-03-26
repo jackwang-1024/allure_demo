@@ -1,0 +1,12 @@
+-
+  case_name: 查询集群信息
+  request:
+    url: https://172.16.100.232:8443/oauth/token
+    method: post
+    headers:
+      'authorization': 'Basic aGNkLWNsaWVudDpoY2Qtc2VjcmV0'
+    params:
+        'username': 'admin'
+        'password': 'Hello123!'
+        'grant_type': 'password'
+    ast: 200

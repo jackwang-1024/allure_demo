@@ -1,0 +1,10 @@
+2024-03-22 14:25:42,743-[test02.py-->line:18]-INFO:this is my first logger
+2024-03-22 14:25:42,743-[test02.py-->line:19]-ERROR:this is my firest error
+2024-03-22 15:08:04,199-[__init__.py-->line:18]-INFO:this is my first logger
+2024-03-22 15:08:04,200-[__init__.py-->line:19]-ERROR:this is my firest error
+2024-03-22 15:08:04,200-[test3.py-->line:3]-INFO:haha0322
+2024-03-22 15:08:04,200-[test3.py-->line:4]-INFO:Jack666
+2024-03-22 15:17:51,593-[__init__.py-->line:22]-INFO:this is my first logger
+2024-03-22 15:17:51,593-[__init__.py-->line:23]-ERROR:this is my firest error
+2024-03-22 15:19:38,703-[__init__.py-->line:23]-INFO:this is my first logger
+2024-03-22 15:19:38,703-[__init__.py-->line:24]-ERROR:this is my firest error

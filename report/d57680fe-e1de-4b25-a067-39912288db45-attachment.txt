@@ -1,0 +1,8 @@
+200
+
+{"access_token":"9kWoiFc6FAnxwnwF5kEzNfnzYR8=","token_type":"bearer","refresh_token":"wmQlrrBfW15a4ncTgMZ0hz5ti3E=","expires_in":37256,"scope":"read write"}
+https://172.16.100.232:8443/oauth/token
+200
+
+{"data":[{"clusterId":"ba82ea09-bd35-440c-8e4b-ae58a54d0e2e","clusterName":"sp232","clusterNumericalId":4410623105832914478,"minClusterSize":3,"state":"ONLINE","replicationFactor":3,"blockSize":4096,"healthState":"HEALTHY","tolerableDiskFailureCount":2,"tolerableNodeFailureCount":2,"totalSpace":40488028471296,"usedSpace":10441951760384,"usableSpace":37635480843632,"virtualIp":"192.168.201.232","storageVirtualIpv6":null,"extraVirtualIpList":null,"extraVirtualIpv6List":null,"clusterAccessLevel":"READ_WRITE","type":"REGULAR","dataRecoveryPolicy":"USER_FIRST","clusterUpdateTime":1710753656375,"clusterCreateTime":1710741456370,"arbitratorIp":null,"arbitratorPort":0,"arbitratorMode":"NONE","shardAllocationStrategy":"REGULAR","parentId":null,"id":"ba82ea09-bd35-440c-8e4b-ae58a54d0e2e"}]}
+sp232

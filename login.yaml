@@ -1,0 +1,24 @@
+-
+  case_name: 登陆成功
+  request:
+    url: https://172.16.100.232:8443/oauth/token
+    method: post
+    headers:
+      'authorization': 'Basic aGNkLWNsaWVudDpoY2Qtc2VjcmV0'
+    params:
+        'username': 'admin'
+        'password': 'Hello123!'
+        'grant_type': 'password'
+    ast: 200
+-
+  case_name: 登陆失败
+  request:
+    url: https://172.16.100.232:8443/oauth/token
+    method: post
+    headers:
+      'authorization': 'Basic aGNkLWNsaWVudDpoY2Qtc2VjcmV0'
+    params:
+        'username': 'admin'
+        'password': 'Hello123'
+        'grant_type': 'password'
+    ast: 400

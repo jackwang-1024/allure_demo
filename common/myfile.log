@@ -1,0 +1,2 @@
+2024-03-22 15:00:09,224-[log_handler.py-->line:18]-INFO:this is my first logger
+2024-03-22 15:00:09,225-[log_handler.py-->line:19]-ERROR:this is my firest error

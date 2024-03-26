@@ -1,0 +1,4 @@
+2024-03-22 13:35:13,692-[test.py-->line:6]-INFO:aaa
+2024-03-22 13:35:13,696-[test.py-->line:7]-ERROR:bbb
+2024-03-22 13:36:49,005-[test.py-->line:6]-INFO:aaa
+2024-03-22 13:36:49,006-[test.py-->line:7]-ERROR:bbb

@@ -1,0 +1,16 @@
+2024-03-22 17:57:48,855-[test_01_mylogin.py-->line:15]-INFO:https://172.16.100.232:8443/oauth/token
+2024-03-22 17:57:49,169-[test_01_mylogin.py-->line:25]-INFO:登录返回的access_token是：Y26xyg5fGkDHa4wLGth11MWM6e0=
+2024-03-22 17:57:49,169-[test_01_mylogin.py-->line:15]-INFO:https://172.16.100.232:8443/oauth/token
+2024-03-22 17:57:49,500-[test_02_getsp.py-->line:16]-INFO:==testgetsp22222=====
+2024-03-22 17:57:49,500-[test_02_getsp.py-->line:19]-INFO:[global_access_token:]Y26xyg5fGkDHa4wLGth11MWM6e0=[global_access_token]
+2024-03-22 17:57:49,600-[test_02_getsp.py-->line:22]-INFO:200
+2024-03-22 17:57:49,600-[test_02_getsp.py-->line:24]-INFO:https://172.16.100.232:8443/v1/clusters
+2024-03-22 17:57:49,600-[test_02_getsp.py-->line:31]-INFO:clusterName：sp232
+2024-03-22 17:57:49,605-[test_02_getsp.py-->line:35]-INFO:clusterid575aa8f3-f8fb-4368-854d-62bd44fedd91
+2024-03-22 17:57:49,605-[test_03_getvolumes.py-->line:22]-INFO:==testgetvolumes=====
+2024-03-22 17:57:49,605-[test_03_getvolumes.py-->line:23]-INFO:[global_access_token:]Y26xyg5fGkDHa4wLGth11MWM6e0=[global_access_token]
+2024-03-22 17:57:49,760-[test_03_getvolumes.py-->line:26]-INFO:200
+2024-03-22 17:57:49,760-[test_03_getvolumes.py-->line:28]-INFO:https://172.16.100.232:8443/v1/volumes/575aa8f3-f8fb-4368-854d-62bd44fedd91
+2024-03-22 17:57:49,760-[test_03_getvolumes.py-->line:37]-INFO:v2
+2024-03-22 17:57:49,760-[test_03_getvolumes.py-->line:38]-INFO:v3
+2024-03-22 17:57:49,760-[test_03_getvolumes.py-->line:39]-INFO:v1

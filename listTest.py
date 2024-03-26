@@ -1,0 +1,28 @@
+list1=["a",'b',"test",1,2,3]
+print(list1)
+print(list1[0])
+print(list1[-1])
+print(list1[::2])
+list1.append("haha")
+print("the new list:",list1)
+del list1[2]
+print("after delete:",list1)
+list1.remove("b")
+print("after remove:",list1)
+list1.pop()
+print("after pop:",list1)
+print("the length of list1:",len(list1))
+list1.remove("a")
+print("the max of list1:",max(list1))
+for i in list1:
+    print(i)
+
+list1.append(2)
+list1.append(2)
+print(list1)
+list1.reverse()
+print(list1)
+list1.sort()
+print(list1)
+list1.reverse()
+print(list1)
