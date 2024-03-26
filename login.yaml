@@ -34,4 +34,4 @@
         'username': 'admin'
         'password': 'Hello1234'
         'grant_type': 'password'
-    ast: 400    
+    ast: 400
