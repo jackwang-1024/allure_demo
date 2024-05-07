@@ -33,3 +33,4 @@ class TestGetSp:
             globalvalue.global_clusterid = rep_json['data'][0]['clusterId']
             # print(globalvalue.global_clusterid)
             logger.info(f"clusterid{rep_json['data'][0]['clusterId']}")
+
